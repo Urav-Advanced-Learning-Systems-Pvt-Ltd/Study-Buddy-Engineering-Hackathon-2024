@@ -12,7 +12,7 @@ body:
     attributes:
       label: Name
       description: Enter your full name
-      placeholder: Aditya Oberai
+      placeholder: First Name Last Name
     validations:
       required: true
   - type: input
@@ -20,7 +20,7 @@ body:
     attributes:
       label: Email Address
       description: Enter your email address
-      placeholder: foo@bar.com
+      placeholder: email@email.com
     validations:
       required: true
   - type: input
@@ -50,9 +50,9 @@ body:
   - type: textarea
     id: tech-stack
     attributes:
-      label: Tech Stack
-      description: How have you built this project? Mention the technologies/methods/platforms you used to build your project
-      placeholder: The technologies I used...
+      label: Functionality Used
+      description: How have you built this project? Mention the Study Buddy | AI Assistant functionality you used to build your project
+      placeholder: The functionality I used...
     validations:
       required: true
   - type: dropdown
@@ -61,10 +61,11 @@ body:
       label: Hackathon Track
       description: What hackathon track are you opting in?
       options:
-        - Track 1
-        - Track 2
-        - Track 3
-        - Track 4
+        - Computer Science & IT
+        - Electrical
+        - Electronics and Communication 
+        - Mechanical & Civil      
+        - Biomedical & Chemical
     validations:
       required: true
   - type: input
