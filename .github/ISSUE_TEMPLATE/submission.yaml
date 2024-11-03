@@ -23,14 +23,6 @@ body:
       placeholder: email@email.com
     validations:
       required: true
-  - type: input
-    id: team-emails
-    attributes:
-      label: Email Addresses of Team Members
-      description: Enter the email addresses of you team members separated by commas (if you have any)
-      placeholder: foo1@bar.com, foo2@bar.com, foo3@bar.com,...
-    validations:
-      required: false
   - type: textarea
     id: description
     attributes:
@@ -48,7 +40,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: tech-stack
+    id: functionality-used
     attributes:
       label: Functionality Used
       description: How have you built this project? Mention the Study Buddy | AI Assistant functionality you used to build your project
@@ -73,7 +65,15 @@ body:
     attributes:
       label: Project Repo
       description: Share a public repo link of your project
-      placeholder: https://github.com/code-capture/CodeCapture-Xamarin
+      placeholder: https://github.com/uralstech/ezrSquared
+    validations:
+      required: true
+  - type: input
+    id: conversation-link
+    attributes:
+      label: Conversation Recording
+      description: Share a publicly visible video to a recording of your conversation
+      placeholder: https://www.youtube.com/watch?v=.....
     validations:
       required: true
   - type: input
@@ -81,7 +81,7 @@ body:
     attributes:
       label: Demo Video/Photos
       description: Share a publicly visible demo video/photos link of your project
-      placeholder: https://www.youtube.com/watch?v=9IBaX1avYWc
+      placeholder: https://www.youtube.com/watch?v=.....
     validations:
       required: false
   - type: textarea
