@@ -100,13 +100,13 @@ https://user-images.githubusercontent.com/31401437/170713948-5bfe0c35-e1aa-4eeb-
 
 ### How To Use Study Buddy | AI Assistant
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlhH-Uao_Mo?si=L8Zj-N18taBVaCkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Tutorial](http://img.youtube.com/vi/JlhH-Uao_Mo/0.jpg)](http://www.youtube.com/watch?v=JlhH-Uao_Mo "Study Buddy | AI Assistant Functionality - AI powered Animated Avatar Assistant made from your photo")
 
 ### Example Use Cases
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ISS5BDd9eqQ?si=PlSBFYZw7cEBagHy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Use Cases #1](http://img.youtube.com/vi/ISS5BDd9eqQ/0.jpg)](http://www.youtube.com/watch?v=ISS5BDd9eqQ "Multilingual AI Assistant Used for direction and letter writing")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bzQMdsdpiRs?si=N7CWRBo0ywWHUIyG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Use Cases #2](http://img.youtube.com/vi/bzQMdsdpiRs/0.jpg)](http://www.youtube.com/watch?v=bzQMdsdpiRs "StudyBuddy GPT-4o Multilingual Conversational AI with Animated Avatar student learning helper app")
 
 ## Code of Conduct
 
