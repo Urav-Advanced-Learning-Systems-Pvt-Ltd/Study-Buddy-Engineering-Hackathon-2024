@@ -7,13 +7,17 @@
 
 - [Study Buddy | AI Assistant Engineering Hackathon 2024: Example Hackathon Description](#study-buddy--ai-assistant-engineering-hackathon-2024-1)
   * [About The Hackathon](#about-the-hackathon)
+  * [Rules](#rules)
   * [Timeline](#timeline)
   * [Tracks](#tracks)
   * [Prizes](#prizes)
   * [Judging Parameters](#judging-parameters)
   * [How To Submit Your Project?](#how-to-submit-your-project)
-    + [Video Tutorial - How To Submit Your Project?](video-tutorial---how-to-submit-your-project)
-  * [Rules and Code of Conduct](#rules-and-code-of-conduct)
+    + [Video Tutorial - How To Submit Your Project?](#video-tutorial---how-to-submit-your-project)
+  * [Hackathon Resources](#hackathon-resources)
+    + [How To Use Study Buddy | AI Assistant](#how-to-use-study-buddy--ai-assistant)
+    + [Example Use Cases](#example-use-cases)
+  * [Code of Conduct](#code-of-conduct)
 
 # Study Buddy | AI Assistant Engineering Hackathon 2024
 
@@ -22,6 +26,10 @@
 Are you ready to revolutionize the way we learn and create? Join us for an exciting 12-hour Hackathon featuring Study Buddy | AI Assistant,
 your personalized multilingual AI learning assistant! This is your chance to explore innovative uses of AI and craft unique works of art,
 thoughtful ideas, or groundbreaking projects that showcase how technology can augment human creativity and satisfaction.
+
+## Rules
+
+Check out the [Rules](RULES.md) to participate in the Hackathon.
 
 ## Timeline
 
@@ -88,8 +96,20 @@ Follow the steps to submit your project in the hackathon:
 
 https://user-images.githubusercontent.com/31401437/170713948-5bfe0c35-e1aa-4eeb-8456-fbb02aeb9292.mp4
 
-## Rules and Code of Conduct
+## Hackathon Resources
 
-All participants must agree to the [Rules](RULES.md) and [Code of Conduct](CODE_OF_CONDUCT.md) to participate in the Hackathon.
+### How To Use Study Buddy | AI Assistant
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlhH-Uao_Mo?si=L8Zj-N18taBVaCkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Example Use Cases
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ISS5BDd9eqQ?si=PlSBFYZw7cEBagHy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bzQMdsdpiRs?si=N7CWRBo0ywWHUIyG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Code of Conduct
+
+All participants must agree to the [Code of Conduct](CODE_OF_CONDUCT.md) to participate in the Hackathon.
 
 ---
