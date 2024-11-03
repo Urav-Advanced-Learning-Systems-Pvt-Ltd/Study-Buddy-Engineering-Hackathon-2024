@@ -7,7 +7,7 @@ Here's a template repo for you to generate a submission platform for your hackat
 - [Hackathon Submissions Platform Template](#hackathon-submissions-platform-template)
   * [Steps To Use This Repo](#steps-to-use-this-repo)
   * [Exporting Submission Links](#exporting-submission-links)
-- [XYZ Hackathon: Example Hackathon Description](#xyz-hackathon-example-hackathon-description)
+- [Study Buddy | AI Assistant Engineering Hackathon 2024: Example Hackathon Description](#xyz-hackathon-example-hackathon-description)
   * [About The Hackathon](#about-the-hackathon)
   * [Timeline](#timeline)
   * [Tracks](#tracks)
