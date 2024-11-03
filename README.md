@@ -1,13 +1,11 @@
-# Hackathon Submissions Platform Template
+# Study Buddy | AI Assistant Engineering Hackathon 2024
 
-Here's a template repo for you to generate a submission platform for your hackathon for free on GitHub.
+[![Study Buddy | AI Assistant on Google Play](https://img.shields.io/badge/Study_Buddy_|_AI_Assistant_on_Google_Play-00E26B?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.Uralstech.StudyBuddy)
+[![Study Buddy | AI Assistant on App Store](https://img.shields.io/badge/Study_Buddy_|_AI_Assistant_on_App_Store-51A0D5?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/study-buddy-ai-assistant/id6671574219)
 
 ## Table Of Contents
 
-- [Hackathon Submissions Platform Template](#hackathon-submissions-platform-template)
-  * [Steps To Use This Repo](#steps-to-use-this-repo)
-  * [Exporting Submission Links](#exporting-submission-links)
-- [Study Buddy | AI Assistant Engineering Hackathon 2024: Example Hackathon Description](#xyz-hackathon-example-hackathon-description)
+- [Study Buddy | AI Assistant Engineering Hackathon 2024: Example Hackathon Description](#study-buddy--ai-assistant-engineering-hackathon-2024-1)
   * [About The Hackathon](#about-the-hackathon)
   * [Timeline](#timeline)
   * [Tracks](#tracks)
@@ -17,167 +15,43 @@ Here's a template repo for you to generate a submission platform for your hackat
     + [Video Tutorial - How To Submit Your Project?](video-tutorial---how-to-submit-your-project)
   * [Rules and Code of Conduct](#rules-and-code-of-conduct)
 
-## Steps To Use This Repo 
-
-
-* Click on [**Use this template**](https://github.com/adityaoberai/hackathon-submissions-repo-template/generate) to generate a copy of the repository for your hackathon.
-<a href="https://github.com/adityaoberai/hackathon-submissions-repo-template/generate" target="_blank">
-  <img width="94" alt="image" src="https://user-images.githubusercontent.com/31401437/170708931-be980535-a6fe-4540-a8d1-9515059f5d9c.png">
-</a>
-
-* Visit the [Issue Form for Hackathon Submissions](.github/ISSUE_TEMPLATE/submission.yaml) and edit it to your comfort. [*(Guide)*](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms)
-
-> *Note: In order to use the Hackathon Submissions Issue Form, your repository must be public.*
-
-* Add new **Issue Labels** (and remove the existing ones) so that the list looks as follows. [*(Guide)*](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)
-<img width="921" alt="image" src="https://user-images.githubusercontent.com/31401437/170709980-6b54a747-789c-41a5-9ed0-f398bbb767b9.png">
-
-* Edit the **Example Hackathon Description** to add/update all the necessary details regarding your hackathon.
-
-* Edit the [Code of Conduct](CODE_OF_CONDUCT.md) to add details of the organizers and the hackathon.
-
-* Review (and update) the [Rules](RULES.md) to add your own set of rules for the hackathon.
-
-* Remove the contents of the Readme before the hackathon description.
-
-## Exporting Submission Links 
-
-If you want export all submission links to a CSV file, follow the following steps:
-
-* Install `Python 3.x` on your system.
-
-* Create a folder to store your submissions CSV.
-
-* Enter the folder, create a file `script.py` and add the following code:
-
-```python
-"""
-Inspired by script the created by prateek032: https://gist.github.com/prateek032/06273e179bb034800c61
-"""
-
-import csv
-import requests
-import json
-
-REPO = ""  # format is username/repo
-ISSUES_FOR_REPO_URL = "https://api.github.com/repos/%s/issues" % REPO
-arg = "?state=all"
-
-# Since the hackathon repos must be public (to allow issue forms), username and password are not necessary.
-
-
-def write_issues(r):
-    "output a list of issues to csv"
-    if not r.status_code == 200:
-        raise Exception(r.status_code)
-    for issue in r.json():
-        Tag = []
-        labels = issue["labels"]
-        for label in labels:
-            Tag.append(label["name"])
-
-        if "issues" in issue["html_url"]:
-            csvout.writerow(
-                [
-                    issue["number"],
-                    issue["title"],
-                    Tag,
-                    issue["state"],
-                    issue["created_at"],
-                    issue["html_url"],
-                ]
-            )
-
-
-r = requests.get(ISSUES_FOR_REPO_URL + arg)
-
-csvfile = "%s-issues.csv" % (REPO.replace("/", "-"))
-csvfileo = open(csvfile, "w")
-csvout = csv.writer(csvfileo)
-csvout.writerow(["Id", "Title", "Tag", "State", "Open Date", "URL"])
-
-write_issues(r)
-
-# more pages? examine the "link" header returned
-if "link" in r.headers:
-    pages = dict(
-        [
-            (rel[6:-1], url[url.index("<") + 1 : -1])
-            for url, rel in [link.split(";") for link in r.headers["link"].split(",")]
-        ]
-    )
-
-    while "last" in pages and "next" in pages:
-        r = requests.get(pages["next"], auth=AUTH)
-        write_issues(r)
-        if pages["next"] == pages["last"]:
-            break
-        pages = dict(
-            [
-                (rel[6:-1], url[url.index("<") + 1 : -1])
-                for url, rel in [
-                    link.split(";") for link in r.headers["link"].split(",")
-                ]
-            ]
-        )
-
-csvfileo.close()
-```
-
-* Open your shell in the same folder and run the command `pip install requests` followed by `python script.py`.
-
-* You should have a CSV file with all the submissions in your folder.
-
----
-
-# XYZ Hackathon: Example Hackathon Description
+# Study Buddy | AI Assistant Engineering Hackathon 2024
 
 ## About The Hackathon
 
-XYZ Hackathon is a 48-hour digital hackathon where young minds possessing a passion for solving real-life problems come together to build innovative solutions. Whether you are a beginner or an expert coder, here is the perfect chance to hone your skills and witness the competitive yet inclusive developer community around you!
-
-Learn new technologies, enhance your team management and presentation skills, and get mentored by experts- all in one place!
+Are you ready to revolutionize the way we learn and create? Join us for an exciting 12-hour Hackathon featuring Study Buddy | AI Assistant,
+your personalized multilingual AI learning assistant! This is your chance to explore innovative uses of AI and craft unique works of art,
+thoughtful ideas, or groundbreaking projects that showcase how technology can augment human creativity and satisfaction.
 
 ## Timeline
 
-* **Start Date and Time:** 1st January 2022 at 11:00 AM IST
-* **Start Date and Time:** 3rd January 2022 at 11:00 AM IST
+* **Start Date and Time:** TBA
+* **Start Date and Time:** TBA
 
 ## Tracks
 
-* Track 1
+* Computer Science and IT:
+> 1. Virtual coding assistant: Use Study Buddy's code interpreter to write programs and present the chat leading to the code development.
 
-> Description of Track 1
+* Mechanical and Civil:
+> 1. Structural analysis and design optimization: Use Study Buddy's math and graph interpretation to analyze structural integrity.
+> 2. Material science and properties: Use Study Buddy's knowledge base to research material properties.
 
-* Track 2
+* Electrical:
+> 1. Circuit design and simulation: Utilize Study Buddy's math and graph interpretation to analyze circuit behavior.
+> 2. Power systems analysis: Use Study Buddy's knowledge base to research electrical power systems.
 
-> Description of Track 2
+* Electronics and Communication:
+> 1. Digital signal processing: Use Study Buddy's math and graph interpretation to analyze signals.
+> 2. Communication systems design: Utilize Study Buddy's knowledge base to research communication protocols.
 
-* Track 3
-
-> Description of Track 3
-
-* Track 4
-
-> Description of Track 4
+* Biomedical and Chemical:
+> 1. Medical image analysis: Utilize Study Buddy's image generation and analysis capabilities.
+> 2. Clinical decision support system: Integrate Study Buddy with medical databases.
 
 ## Prizes
 
-* **1st Prize**
-
->* Cash worth $500
->* XYZ Hackathon Swags
-
-
-* **2nd Prize**
-
->* Cash worth $300
->* XYZ Hackathon Swags
-
-* **3rd Prize**
-
->* Cash worth $100
->* XYZ Hackathon Swags
+A cash pool of 10,000 INR at stake (minumum 1,000 participants must).
 
 ## Judging Parameters
 
@@ -198,7 +72,7 @@ Learn new technologies, enhance your team management and presentation skills, an
 
 > * Does the project have an impact on people's lives at a social level?
 
-## How To Submit Your Project?
+## How To Submit Your Project
 
 Follow the steps to submit your project in the hackathon:
 
@@ -210,7 +84,7 @@ Follow the steps to submit your project in the hackathon:
 
 * **Enter your submission details and you're good to go!**
 
-### Video Tutorial - How To Submit Your Project?
+### Video Tutorial - How To Submit Your Project
 
 https://user-images.githubusercontent.com/31401437/170713948-5bfe0c35-e1aa-4eeb-8456-fbb02aeb9292.mp4
 
