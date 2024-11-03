@@ -1,18 +1,21 @@
 # Hackathon Rules
-<!-- This is a sample set of rules. Feel free to add new rules or remove any existing ones. -->
 
-* This is a solo hackathon. You can brainstorm with friends, but submission must be individual.
+* All projects must use the free TalkTime which participants will receive on first download of the Study Buddy | AI Assistant app.
 
-* The hackathon is for a 12 hour period and will start at **<START 10th November 6 am IST>** and end at **<END 10th November 6 pm IST>**, you work on your hack during the allotted time only.
+* This is a solo hackathon. You can brainstorm with friends, but submission must be by an individual.
+
+* The hackathon is for a 12 hour period and will start at **TBA** and end at **TBA**, and you must only work on your project during the allotted time.
   
-* There are *5* tracks of the hackathon, you must submit a hack that is in one of these tracks.
+* There are *5* tracks of the hackathon, and you must submit a project that is in one of these tracks.
 
-* Hackers are not allowed to submit multiple projects. Hackers must be a part of only one project.
+* Hackers are not allowed to submit multiple projects.
   
-* Once the hackathon starts, you will get an option to submit your hack, you can submit as many times as you want, the last hack will be considered as the final submission.
+* Once the hackathon starts, you will get an option to submit your project as many times as you want. The last edit to the issue will be considered the final submission.
 
-* Your hack must be developed entirely during the Hackathon duration. 
+* The submission must contain a link to the full recording of the participant using the app, from the first query to the last response.
 
-* The intellectual property of your code / work belongs only to you. You will not have any claims to IP of Study Buddy | AI Assistant and Urav Advanced Learning Systems Pvt Ltd. 
+* Your project must be developed entirely during the Hackathon duration. 
+
+* The intellectual property of your project belongs only to you. You will not have any claims to IP of Study Buddy | AI Assistant and Urav Advanced Learning Systems Pvt Ltd. 
 
 * By participating in the hackathon, you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).
