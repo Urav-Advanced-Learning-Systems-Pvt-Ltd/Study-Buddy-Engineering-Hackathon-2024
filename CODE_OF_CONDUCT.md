@@ -51,6 +51,7 @@ If a participant engages in harassing behavior, the hackathon organisers may tak
 
 We expect participants to follow these rules at hackathon and workshop venues and hackathon-related social events.
 
+Contact us at info@uralstech.in or +91 944 771 1302. 
 ---
 
 ## Attribution
