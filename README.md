@@ -5,7 +5,7 @@
 
 ## Table Of Contents
 
-- [Study Buddy | AI Assistant Engineering Hackathon 2024: Example Hackathon Description](#study-buddy--ai-assistant-engineering-hackathon-2024-1)
+- [Study Buddy | AI Assistant Engineering Hackathon 2024](#study-buddy--ai-assistant-engineering-hackathon-2024-1)
   * [About The Hackathon](#about-the-hackathon)
   * [Rules](#rules)
   * [Timeline](#timeline)
