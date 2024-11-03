@@ -57,4 +57,3 @@ We expect participants to follow these rules at hackathon and workshop venues an
 
 This Code of Conduct has been taken from [hackcodeofconduct.org](https://hackcodeofconduct.org/) and created by [Cristiano Betta](https://betta.io/).  
 The Code is available [here on GitHub](https://github.com/cbetta/hackcoc/).  
-Feel free to make any suggestions or create your own version.
