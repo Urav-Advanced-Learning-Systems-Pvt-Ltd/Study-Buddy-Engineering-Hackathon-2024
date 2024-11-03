@@ -67,7 +67,7 @@ body:
       description: Share a public repo link of your project
       placeholder: https://github.com/uralstech/ezrSquared
     validations:
-      required: true
+      required: false
   - type: input
     id: conversation-link
     attributes:
