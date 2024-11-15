@@ -33,8 +33,8 @@ Check out the [Rules](RULES.md) to participate in the Hackathon.
 
 ## Timeline
 
-* **Start Date and Time:** TBA
-* **Start Date and Time:** TBA
+* **Start Date and Time:** 20th, November 2024 at 10🕙
+* **End Date and Time:** 20th, November 2024 at 4🕙
 
 ## Tracks
 
@@ -59,7 +59,7 @@ Check out the [Rules](RULES.md) to participate in the Hackathon.
 
 ## Prizes
 
-A cash pool of 10,000 INR at stake (minumum 1,000 participants must).
+More than 50 colleges participating for 100,000 Indian Rupees and more. Win up to 10,000 Indian Rupees as prize per minimum 1000 participants Cohort
 
 ## Judging Parameters
 
