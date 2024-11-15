@@ -4,7 +4,7 @@
 
 * This is a solo hackathon. You can brainstorm with friends, but submission must be by an individual.
 
-* The hackathon is for a 12 hour period and will start at **TBA** and end at **TBA**. You can prepare for the hackathon within this time by going through the resources. The actual use of the app should be in 4 hours within this period. A minimum 1000 participants have to take part in the hackathon at each center.
+* The hackathon is for a 6 hour period and will start at **10 am** and end at **4 pm**. You can prepare for the hackathon before this time by going through the resources. The actual use of the app should be within this period. A minimum 1000 participants have to take part in the hackathon at each cohort.
   
 * There are *5* tracks of the hackathon, and you must submit a project that is in one of these tracks.
 
