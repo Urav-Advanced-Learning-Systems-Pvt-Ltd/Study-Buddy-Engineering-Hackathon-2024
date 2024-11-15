@@ -38,7 +38,7 @@ body:
       description: What is the story behind this project? Why did you choose to work on this specific idea?
       placeholder: The reason I chose this idea/project was...
     validations:
-      required: true
+      required: false
   - type: textarea
     id: functionality-used
     attributes:
