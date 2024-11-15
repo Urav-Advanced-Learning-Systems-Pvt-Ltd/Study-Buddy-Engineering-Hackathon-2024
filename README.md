@@ -59,7 +59,7 @@ Check out the [Rules](RULES.md) to participate in the Hackathon.
 
 ## Prizes
 
-More than 50 colleges participating for 100,000 Indian Rupees and more. Win up to 10,000 Indian Rupees as prize per minimum 1000 participants Cohort
+More than 50 colleges participating for 100,000 Indian Rupees and more. Win up to 10,000 Indian Rupees as prize per minimum 1000 participants Cohort. Each 1000 participant cohort will get 5000 Rs as First Prize and 10 x 500 Rs consolation prizes.
 
 ## Judging Parameters
 
