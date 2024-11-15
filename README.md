@@ -23,7 +23,7 @@
 
 ## About The Hackathon
 
-Are you ready to revolutionize the way we learn and create? Join us for an exciting 12-hour Hackathon featuring Study Buddy | AI Assistant,
+Are you ready to revolutionize the way we learn and create? Join us for an exciting 6-hour Hackathon featuring Study Buddy | AI Assistant,
 your personalized multilingual AI learning assistant! This is your chance to explore innovative uses of AI and craft unique works of art,
 thoughtful ideas, or groundbreaking projects that showcase how technology can augment human creativity and satisfaction.
 
