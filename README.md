@@ -35,7 +35,7 @@ Check out the [Rules](RULES.md) to participate in the Hackathon.
 
 * **Start Date and Time:** 27th, November 2024 at 10:00 am
 * **End Date and Time:** 27th, November 2024 at 7:00 pm
-* **Results:** 27th, November 2024 at 6:00 pm
+* **Results:** 4th, December 2024 at 6:00 pm
 
 ## Tracks
 
