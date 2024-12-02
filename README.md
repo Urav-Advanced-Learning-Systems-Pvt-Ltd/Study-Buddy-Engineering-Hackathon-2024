@@ -115,3 +115,8 @@ https://user-images.githubusercontent.com/31401437/170713948-5bfe0c35-e1aa-4eeb-
 All participants must agree to the [Code of Conduct](CODE_OF_CONDUCT.md) to participate in the Hackathon.
 
 ## Result
+
+Since the hackathon did not meet our criteria of minimum 1000 students and entries, we have only 2 consolation prizes.
+1. 1000 INR to Bodavula Vamsi Kiran https://github.com/Urav-Advanced-Learning-Systems-Pvt-Ltd/Study-Buddy-Engineering-Hackathon-2024/issues/4
+2. 500 INR to Lasya Dodla https://github.com/Urav-Advanced-Learning-Systems-Pvt-Ltd/Study-Buddy-Engineering-Hackathon-2024/issues/6
+The department heads will contact you soon about your prizes.
