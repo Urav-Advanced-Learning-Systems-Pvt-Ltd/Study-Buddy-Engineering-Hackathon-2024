@@ -116,7 +116,7 @@ All participants must agree to the [Code of Conduct](CODE_OF_CONDUCT.md) to part
 
 ## Result
 
-With the grand success of our first hackathon, here comes the winners and prizes. Congratulations! Keep working on the app, promote it among your friends, add youtube or instagram videos and tag us. You can still win more goodies! If you are interested in AI courses and training contact us for more information.
+With the grand success of our first hackathon, here comes the winners and prizes. Congratulations! Keep working on the app, promote it among your friends, add Youtube or Instagram videos and tag us. You can still win more goodies! If you are interested in AI courses and training contact us for more details.
 1. Bodavula Vamsi Kiran https://github.com/Urav-Advanced-Learning-Systems-Pvt-Ltd/Study-Buddy-Engineering-Hackathon-2024/issues/4
 2. Lasya Dodla https://github.com/Urav-Advanced-Learning-Systems-Pvt-Ltd/Study-Buddy-Engineering-Hackathon-2024/issues/6
 
