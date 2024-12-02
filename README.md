@@ -18,6 +18,7 @@
     + [How To Use Study Buddy | AI Assistant](#how-to-use-study-buddy--ai-assistant)
     + [Example Use Cases](#example-use-cases)
   * [Code of Conduct](#code-of-conduct)
+  * [Result](#result)
 
 # Study Buddy | AI Assistant Engineering Hackathon 2024
 
@@ -113,4 +114,4 @@ https://user-images.githubusercontent.com/31401437/170713948-5bfe0c35-e1aa-4eeb-
 
 All participants must agree to the [Code of Conduct](CODE_OF_CONDUCT.md) to participate in the Hackathon.
 
----
+## Result
